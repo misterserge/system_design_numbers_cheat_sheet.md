@@ -70,4 +70,3 @@ Numbers for requests calculations
 #### Source(s)
 * [System Design Primer](https://github.com/donnemartin/system-design-primer/blob/master/README.md#appendix)
 * [Snappy (Used to be Zippy)](https://github.com/google/snappy#introduction)
-
